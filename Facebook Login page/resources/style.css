@@ -1,0 +1,53 @@
+.jumbotron {
+   text-align: center;
+  background-image: url(resources/images/ict.jpg);
+   
+}
+hr.contact{
+    padding-right:50px;
+}
+
+* {box-sizing:border-box}
+
+.fhorizalrule{
+    height: 10px;  
+  background-color: red; 
+  border: none; 
+}
+
+.container-fluid{
+    background-color: lightgrey;
+}
+#mynavbar a {
+    color: blue;
+}
+
+#mynavbar a:hover {
+  background-color:grey; /* Add a dark-grey background on hover */
+}
+#myh1{
+    color:blue;
+    background-color: skyblue;
+}
+.info{
+    color: red;
+}
+.textbody{
+    text-align: center;
+    background-color: grey;
+}
+.copyright{
+    text-align: center;
+    background-color:tomato;
+    color: white;
+}
+
+.column{
+  float: left;
+  padding: 100px;
+  height: 400px;
+}
+.submitbtn:hover{
+  background-color: blue;
+  color: white;
+}
